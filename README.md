@@ -1,2 +1,2 @@
 # java-projects
-Java Projects from Coursework
+Various Java Projects from Coursework
